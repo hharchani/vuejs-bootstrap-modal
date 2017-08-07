@@ -1,6 +1,6 @@
 {
   "name": "vuejs-bootstrap-modal",
-  "description": "Bootstrap Modal for Vue",
+  "description": "Bootstrap Modal for Vue.js 2",
   "version": "0.0.1",
   "author": "hharchani",
   "main": "./src/modal.vue",
