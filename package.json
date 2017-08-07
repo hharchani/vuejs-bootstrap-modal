@@ -1,0 +1,31 @@
+{
+  "name": "vuejs-bootstrap-modal",
+  "description": "Bootstrap Modal for Vue",
+  "version": "0.0.1",
+  "author": "hharchani",
+  "main": "./src/modal.vue",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hharchani/vuejs-bootstrap-modal"
+  },
+  "browserify": {
+    "transform": [
+      [
+        "babelify",
+        {
+          "presets": [
+            "es2015"
+          ]
+        }
+      ],
+      [
+        "vueify"
+      ]
+    ]
+  },
+  "keywords": [
+    "vue",
+    "modal",
+    "vue-modal"
+  ]
+}
